@@ -1,0 +1,78 @@
+{
+  "type": "map",
+  "id": 0,
+  "rooms": {
+    "club":{
+      "name": "Club",
+      "asset": [
+        false,
+        "club"
+      ],
+      "cap": 5
+    },
+	"closet":{
+      "name": "Closet",
+      "asset": [
+        false,
+        "closet"
+      ],
+      "cap": 3
+    },
+	"closet":{
+      "name": "Closet",
+      "asset": [
+        false,
+        "closet"
+      ],
+      "cap": 3
+    },
+	"residential":{
+      "name": "Residential",
+      "asset": [
+        false,
+        "residential"
+      ],
+      "cap": 5
+    },
+	"corridor":{
+      "name": "Hallway",
+      "asset": [
+        false,
+        "corridor"
+      ],
+      "cap": 5
+    },
+	"kitchen":{
+      "name": "Kitchen",
+      "asset": [
+        false,
+        "kitchen"
+      ],
+      "cap": 5
+    },
+	"class":{
+      "name": "Classroom",
+      "asset": [
+        false,
+        "class"
+      ],
+      "cap": 5
+    },
+	"bedroom":{
+      "name": "Bedroom",
+      "asset": [
+        false,
+        "bedroom"
+      ],
+      "cap": 5
+    },
+	"sayori_bedroom":{
+      "name": "Sayori's Bedroom",
+      "asset": [
+        false,
+        "sayori_bedroom"
+      ],
+      "cap": 5
+    }
+  }
+}
